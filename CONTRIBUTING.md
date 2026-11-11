@@ -1,9 +1,9 @@
-# Contributing
+# contributing
 
-Thanks for your interest! Good ways to help:
+thanks for helping! good ways to help:
 
-- **Data:** original, varied conversations or text you have the right to share (no copyrighted or private material).
-- **Bugs:** open an issue with the cell that failed and the full error.
-- **Ideas:** open an issue to discuss before big changes.
+-  data: original, varied conversations or text you have the right to share (no copyrighted or private material).
+-  bugs: open an issue with the cell that failed and the full error.
+- ideas: open an issue to discuss before big changes.
 
-Keep to the project rule: Spark is trained from scratch with no pretrained weights.
+only rules: do not add weights from another model here or add copyrighted material
