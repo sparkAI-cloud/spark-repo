@@ -1,0 +1,19 @@
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# models and checkpoints (large)
+*.pt
+*.pt.partial
+*.safetensors
+*.bin
+out/
+
+# private/large training data (keep only the sample)
+data/*
+!data/README.md
+!data/sample.jsonl
+*.txt.big

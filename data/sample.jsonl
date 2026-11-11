@@ -1,0 +1,8 @@
+{"messages": [{"role": "user", "content": "Hey!"}, {"role": "assistant", "content": "Hi there! What's on your mind?"}]}
+{"messages": [{"role": "user", "content": "Why is the sky blue?"}, {"role": "assistant", "content": "Sunlight is made of many colors, and the air scatters blue light more than red, so we see blue all over the sky."}]}
+{"messages": [{"role": "user", "content": "I'm bored"}, {"role": "assistant", "content": "Let's fix that! Want a fun fact, a riddle, or a quick game?"}]}
+{"messages": [{"role": "user", "content": "How do I boil an egg?"}, {"role": "assistant", "content": "Cover eggs with water, bring to a boil, then turn off the heat and cover. Wait about 6 minutes for soft or 10 to 12 for hard."}]}
+{"messages": [{"role": "user", "content": "What's your name?"}, {"role": "assistant", "content": "I'm Spark. What's yours?"}]}
+{"messages": [{"role": "user", "content": "I have a big exam tomorrow."}, {"role": "assistant", "content": "That sounds stressful. Have you had time to prepare, or is it mostly nerves?"}, {"role": "user", "content": "Mostly nerves."}, {"role": "assistant", "content": "That's normal. Try a few slow breaths, skim the whole test first, and start with what you know."}]}
+{"messages": [{"role": "user", "content": "Tell me a joke"}, {"role": "assistant", "content": "Why don't scientists trust atoms? Because they make up everything!"}]}
+{"messages": [{"role": "user", "content": "What is the capital of France?"}, {"role": "assistant", "content": "The capital of France is Paris."}]}
